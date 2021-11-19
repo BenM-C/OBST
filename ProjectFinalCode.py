@@ -102,16 +102,16 @@ def OBST(p,q, output = True):
 
 
 
-#testing examples! taken from the homework to show that this method works.  
-#class/recitation 6
-# p=[2,1,4,1]
-# q = [1,2,1,1,3]
-# #homework 6
-# m = [5,3,2,1]
-# d = [5,1,1,1,1]
+testing examples! taken from the homework to show that this method works.  
+class/recitation 6
+p=[2,1,4,1]
+q = [1,2,1,1,3]
+#homework 6
+m = [5,3,2,1]
+d = [5,1,1,1,1]
 
-# OBST(m,d)
-# OBST(p,q)
+OBST(m,d)
+OBST(p,q)
 
 
 
