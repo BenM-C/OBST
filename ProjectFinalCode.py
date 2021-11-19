@@ -102,8 +102,8 @@ def OBST(p,q, output = True):
 
 
 
-testing examples! taken from the homework to show that this method works.  
-class/recitation 6
+# testing examples! taken from the homework to show that this method works.  
+# class/recitation 6
 p=[2,1,4,1]
 q = [1,2,1,1,3]
 #homework 6
